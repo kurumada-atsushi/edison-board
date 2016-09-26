@@ -7,9 +7,9 @@
 
 ・parts-list</BR>
  →使用した部品のリスト
-
 ・Schematics</BR>
  →回路図
-
 ・Design</BR>
  →基板図(外形図、レイアウト、配線)
+・sample-program</BR>
+ →サンプルのプログラム
