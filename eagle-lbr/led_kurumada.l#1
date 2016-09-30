@@ -807,6 +807,8 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 <circle x="-0.55" y="1.425" radius="0.1" width="0.1016" layer="51"/>
 <smd name="C" x="0" y="1.75" dx="1.5" dy="1.5" layer="1"/>
 <smd name="A" x="0" y="-1.75" dx="1.5" dy="1.5" layer="1"/>
+<text x="-1.27" y="-1.27" size="1.27" layer="25" font="vector" rot="R90">&gt;NAME</text>
+<text x="2.54" y="-1.27" size="1.27" layer="27" font="vector" rot="R90">&gt;VALUE</text>
 <rectangle x1="-0.85" y1="1.525" x2="-0.35" y2="1.65" layer="51"/>
 <rectangle x1="-0.85" y1="1.225" x2="-0.625" y2="1.55" layer="51"/>
 <rectangle x1="-0.45" y1="1.225" x2="-0.325" y2="1.45" layer="51"/>
@@ -823,8 +825,6 @@ Source: http://www.osram.convergy.de/ ... LG_LY N971.pdf</description>
 </polygon>
 <rectangle x1="-0.127" y1="0.635" x2="0.127" y2="0.762" layer="21"/>
 <rectangle x1="-0.127" y1="-0.762" x2="0.127" y2="-0.508" layer="21"/>
-<text x="-1.27" y="-1.27" size="1.016" layer="21" font="vector" ratio="10" rot="R90">&gt;NAME</text>
-<text x="2.54" y="-1.27" size="1.016" layer="21" font="vector" ratio="10" rot="R90">&gt;VALUE</text>
 </package>
 <package name="CHIPLED_0603">
 <description>&lt;b&gt;CHIPLED&lt;/b&gt;&lt;p&gt;
